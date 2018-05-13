@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoMosaic</string>
+    <string name="select_image">Select Image</string>
+    <string name="start_mosaic_processing">Start mosaic</string>
+    <string name="processing">Processing..</string>
+    <string name="user_feedback_error">Please reselect image and try again!!</string>
+    <string name="user_feedback_processing_failed">Error while processing the image.Please try again!!</string>
+    <string name="user_feedback_processing_successful">Processing successful.</string>
+</resources>
